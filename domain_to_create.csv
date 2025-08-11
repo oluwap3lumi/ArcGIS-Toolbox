@@ -1,0 +1,3 @@
+Domain Name,Description,Field Type,Domain Type
+PhaseDomain,Phase of electricity,TEXT,Coded
+StatusDomain,Operational status,SHORT,Coded

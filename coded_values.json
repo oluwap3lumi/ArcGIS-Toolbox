@@ -1,0 +1,15 @@
+[
+    {
+        "domain_name" : "Transformer Type",
+        "11/0.415kV" : "Distribution Sub Station 11KV_415V",
+        "33/0.415kV" : "Distribution Sub Station 33KV_415V",
+        "33/11kV" : "Power Station 33KV_11KV",
+        "132/33kV" : "Power Station 132KV_33KV"
+    },
+    {
+        "domain_name": "Silica Gel",
+        "Okay" : "Okay",
+        "Saturated" : "Saturated",
+        "Not Available" : "Not Available"
+    }
+]
